@@ -1,5 +1,4 @@
 import React from "react";
-import { increment, decrement } from "../containers/actions";
 
 export function Counter({ counter, increment, decrement, ...props }) {
 
